@@ -1,7 +1,7 @@
 # Hi, I'm Alexis 👋
 
 ## ✨ About me
-I'm a Software Engineering student with a passion for Data Science and Machine Learning. I enjoy transforming data into insights, building intelligent solutions, and collaborating on open-source projects. Always eager to learn, share, and grow in the world of technology!
+I'm a Software Engineering student with a passion for Data Science, Machine Learning, and Web Development. I enjoy building functional and creative software solutions, whether it's transforming data into powerful insights or developing engaging user experiences. I'm always eager to learn, collaborate on new projects, and grow in the world of technology!
 
 ## 💻 Technologies
 
