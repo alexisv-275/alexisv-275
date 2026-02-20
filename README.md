@@ -27,7 +27,7 @@ I'm a Software Engineering student with a passion for Data Science, Machine Lear
 
 ## 📊 Statistics
 <p align="center">
-  <img src="https://github-readme-stats-five-xi-29.vercel.app/api?username=alexisv-275&show_icons=true&hide_title=true&theme=github_dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats-five-xi-29.vercel.app/api/top-langs/?username=alexisv-275&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats-five-xi-29.vercel.app/api?username=alexisv-275&show_icons=true&hide_title=true&theme=github_dark&exclude_repo=2025A_GR2SW_GR3" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats-five-xi-29.vercel.app/api/top-langs/?username=alexisv-275&layout=compact&theme=github_dark" />
 </p>
 
 ## 📬 Contact me
